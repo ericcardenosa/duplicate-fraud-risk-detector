@@ -1,0 +1,17 @@
+{
+  "version": "2.1.0",
+  "entity": "SOCIEDAD FICTICIA X, S.L.",
+  "source_invoices": 2239,
+  "source_orders": 427,
+  "cases": 35,
+  "duplicate_pairs": 11,
+  "po_overbilling_cases": 24,
+  "vendor_mismatch_cases": 0,
+  "critical": 8,
+  "high_or_critical": 34,
+  "invoices_in_candidate_pairs": 22,
+  "gross_invoice_total": 23879606.44,
+  "rules_count": 7,
+  "output_file": "DUPLICATE_RISK_2026.xlsx",
+  "engine": "openpyxl"
+}
